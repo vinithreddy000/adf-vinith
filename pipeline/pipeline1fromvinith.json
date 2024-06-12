@@ -1,6 +1,11 @@
 {
 	"name": "pipeline1fromvinith",
 	"properties": {
+		"parameters": {
+			"vinithq": {
+				"type": "string"
+			}
+		},
 		"annotations": []
 	}
 }
