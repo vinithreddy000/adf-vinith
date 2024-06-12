@@ -1,0 +1,9 @@
+{
+	"name": "adf-vinith",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a1e50c85-db86-4b44-a4c6-89aa5df885bc",
+		"tenantId": "4d5ef3d0-71f3-4bb4-813c-87688f8c85ad"
+	}
+}
